@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 	"github.com/BurntSushi/toml"
-	"github.com/kenzhegulov/http-rest-api"
+	"github.com/kenzhegulov/http-rest-api/tree/master/internal/app/apiserver"
 )
 
 var (
